@@ -29,7 +29,7 @@ I am transitioning into cybersecurity with no prior professional experience in t
 
 ## Projects
 - [Phishing Awareness & Analysis](projects/phishing-awareness-analysis.md)
-- Home Lab Setup *(in progress)*
+- [Home Lab Setup](projects/home-lab-setup.md)
 
 ## Career Goal
 Seeking an entry-level role such as SOC Analyst, IT Security, or Security Analyst where I can continue learning and contributing to security operations.
