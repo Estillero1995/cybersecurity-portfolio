@@ -28,7 +28,7 @@ I am transitioning into cybersecurity with no prior professional experience in t
 - GitHub
 
 ## Projects
-- Phishing Awareness & Analysis
+- [Phishing Awareness & Analysis](projects/phishing-awareness-analysis.md)
 - Home Lab Setup *(in progress)*
 
 ## Career Goal
